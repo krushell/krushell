@@ -1,6 +1,6 @@
 # Hi there, I'm Xin Chen👋
 
-I am currently a Master's student at [Beihang University](https://ev.buaa.edu.cn/). My passion lies in developing intelligent systems, with a focus on **Reinforcement Learning** and **Robotic Learning**. I am actively seeking PhD positions starting in Fall 2027.
+I am currently a Master's student at [Beihang University](https://ev.buaa.edu.cn/). My passion lies in developing intelligent systems, with a focus on **Reinforcement Learning** and **Robotic Learning**. I am actively seeking PhD positions starting in Fall 2027 or Spring 2028.
 
 ---
 
