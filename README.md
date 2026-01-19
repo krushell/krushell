@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Xin Chen👋
 
-<!--
-**krushell/krushell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently a Master's student at [Beihang University](https://ev.buaa.edu.cn/). My passion lies in developing intelligent systems, with a focus on **Reinforcement Learning** and **Robotic Learning**. I am actively seeking PhD positions starting in Fall 2027.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Education
+
+* **Beihang University (BUAA)**
+    * *Master of Engineering (M.Eng.)* | **2024 - Present**
+    * Focus: Robotic Learning, UAV Control
+
+* **Beihang University (BUAA)**
+    * *Bachelor of Engineering (B.Eng.)* | **2020 - 2024**
+    * 🏆 **Honor:** Outstanding Graduate of BUAA
+
+---
+
+### 🔬 Research Interests
+
+My research centers on empowering robots with the ability to learn and adapt in complex environments:
+
+* **Reinforcement Learning (RL):** Focusing on efficiency and generalization in dynamic tasks.
+* **Robotic Learning:** Investigating perception-action loops and embodied intelligence.
+---
+
