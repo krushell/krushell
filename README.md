@@ -7,12 +7,12 @@ I am currently a Master's student at [Beihang University](https://ev.buaa.edu.cn
 ### 🎓 Education
 
 * **Beihang University (BUAA)**
-    * *Master of Engineering (M.Eng.)* | **2024 - Present**
+    * *Master of Science* | **2024 - Present**
     * **Supervisor:** [Jingjing Wang](https://scholar.google.com/citations?user=c32E_h4AAAAJ&hl=en)
     * Focus: Robotic Learning, UAV Control
 
 * **Beihang University (BUAA)**
-    * *Bachelor of Engineering (B.Eng.)* | **2020 - 2024**
+    * *Bachelor of Engineering* | **2020 - 2024**
     * 🏆 **Honor:** Outstanding Graduate of BUAA
 
 ---
