@@ -7,7 +7,7 @@ I am currently a Master's student at [Beihang University](https://ev.buaa.edu.cn
 ### 🎓 Education
 
 * **Beihang University (BUAA)**
-    * *Master of Science* | **2024 - Present**
+    * *Master of Philosophy* | **2024 - Present**
     * **Supervisor:** [Jingjing Wang](https://scholar.google.com/citations?user=c32E_h4AAAAJ&hl=en)
     * Focus: Robotic Learning, UAV Control
 
